@@ -11,10 +11,10 @@ strings:
         Lazy to promote or demote someone for admins? Want to see basic information about chat?
         All stuff about chatroom such as admin lists, pinning or grabbing an invite link can be done easily using the bot.
         **User Commands:**
-        × /adminlist: List all the admins in the Group.
+        × /adminlist: Список всех админов в чате.
         **Admin only:**
         × /invitelink: Gets chat invitelink.
-        × /promote: Promotes the user replied to or tagged (supports with title).
+        × /promote: Повысить пользователя в должности.
         × /fullpromote: Fully Promotes the user replied to or tagged (supports with title).
         × /demote: Demotes the user replied to or tagged.
         × /admincache: Reloads the List of all the admins in the Group.
